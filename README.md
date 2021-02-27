@@ -1,5 +1,5 @@
 # Login system
-login with graphical interface using the Tkinter module and with MySQL connection
+A basic login screen with a graphical interface using the Tkinter module in python.
 
 # Sistema de login
-Login com interface gráfica usando o módulo Tkinter, e conexão com MySQL.
+Uma tela de login básica com interface gráfica usando o módulo Tkinter no python.
